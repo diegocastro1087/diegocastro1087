@@ -22,7 +22,9 @@
     <img align="right" alt="Coder" height="180" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-homens-trabalhando-2.gif">
 </div>
   <br>
+  
 ### Contato
+
 <div>
   <a href="https://www.instagram.com/digh_1087" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diegocastro1087@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
