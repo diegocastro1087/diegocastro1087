@@ -1,5 +1,5 @@
 ### Front-end Web Developer (Junior)
--  I'm studying javascript at the moment, any help and tips on my projects are welcome
+- I'm studying javascript at the moment, any help and tips on my repositories are welcome
 
 ##
 
