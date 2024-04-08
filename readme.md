@@ -4,9 +4,7 @@
 ##
 
 <div align="center"> 
-  <a href="https://beacons.ai/DiegoCastroSousa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegocastro1087&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastro1087&layout=compact&langs_count=16&theme=github_dark">
+  <a href="https://beacons.ai/DiegoCastroSousa">  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocastro1087&layout=compact&langs_count=16&theme=github_dark">
 </div>
 
 ##
