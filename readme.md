@@ -12,7 +12,7 @@ const Diego = {
 if (Diego.hired) {
     Diego.state = "happy 😊";
 }else{
-    Diego.state = "Sad 😥"
+    Diego.state = "Sad 😥";
 }
 ```
 
