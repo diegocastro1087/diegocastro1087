@@ -1,12 +1,12 @@
 
-## <div align='center'> Front-end Web Developer (Junior) <img align='center' height="15" src="https://s3.static.brasilescola.uol.com.br/be/2021/11/bandeira-do-brasil.jpg"></div>
+## <div align='center'> systems analysis and development student <img align='center' height="15" src="https://s3.static.brasilescola.uol.com.br/be/2021/11/bandeira-do-brasil.jpg"></div>
 
 ### Hi 😁👋
 ```kotlin
 const Diego = {
-    profession: "Web Developer",
+    profession: "administrative assistant",
     name: "Diego Castro",
-    age: 18
+    age: 19
 };
 
 if (Diego.hired) {
@@ -17,7 +17,7 @@ if (Diego.hired) {
 ```
 
 ### <div align="left">About Me:   </div>
-- I'm studying javascript at the moment, any help and tips on my repositories are welcome🧑🏻‍💻
+- I am studying systems analysis and development at Estacio via Corps, any help and tips on my repositories are welcome🧑🏻‍💻
 - I like the technology area in general, I love drawing, I know the basics of photoshop, SketchUp, video editing and hardware👨‍💻🤓
 - I'm a gamer, passionate about games of all styles🎮
 - <img align='center' height="20" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f3d0.png"> Volleyball Lover
