@@ -42,6 +42,7 @@ if (Diego.studying) {
 <img align="center" alt="Digh_Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Digh_Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="center" alt="Digh_GitHub" height="60" width="80" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" />
+<img align="center" alt="Diego_React" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 <img align="right" alt="Coder" height="180" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-homens-trabalhando-2.gif">
 </div>
