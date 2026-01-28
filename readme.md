@@ -6,13 +6,13 @@
 const Diego = {
     profession: "administrative assistant",
     name: "Diego Castro",
-    age: 19
+    age: 20
 };
 
-if (Diego.hired) {
+if (Diego.studying) {
     Diego.state = "happy 😊";
 }else{
-    Diego.state = "Sad 😥";
+    Diego.state = "But all I do is study 🤨";
 }
 ```
 
