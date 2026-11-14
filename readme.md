@@ -33,7 +33,7 @@ if (Diego.studying) {
 <div align="center"> 
 <p align="center">
   <a href="https://react-tasks-diegoproject.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_My_Best_Project_Now-Click_Here!-blue?style=for-the-badge" alt="Live Demo">
+    <img src="https://img.shields.io/badge/🌟_Featured_Project-React_Tasks-blueviolet?style=for-the-badge" alt="Featured Project">
   </a>
 </p>
 </div>
