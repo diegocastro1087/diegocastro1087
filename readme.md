@@ -4,23 +4,25 @@
 ### Hi 😁👋
 ```kotlin
 const Diego = {
-    profession: "administrative assistant",
-    name: "Diego Castro",
-    age: 20
+  name: "Diego Castro",
+  age: 20,
+  role: "Administrative Assistant",
+  studying: "Systems Analysis and Development",
+  location: "Fortaleza, CE - Brazil"
 };
 
 if (Diego.studying) {
-    Diego.state = "happy 😊";
-}else{
-    Diego.state = "But all I do is study 🤨";
-}
+  Diego.state = "Happy and evolving 😊";
+} else {
+  Diego.state = "Wait... all I do is study 🤨";
 ```
 
 ### <div align="left">About Me:   </div>
-- I am studying systems analysis and development at Estacio via Corps, any help and tips on my repositories are welcome🧑🏻‍💻
-- I like the technology area in general, I love drawing, I know the basics of photoshop, SketchUp, video editing and hardware👨‍💻🤓
-- I'm a gamer, passionate about games of all styles🎮
-- <img align='center' height="20" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/1024px/1f3d0.png"> Volleyball Lover
+🎓 Currently studying Systems Analysis and Development at Estácio Via Corpvs — any tips, feedback, or contributions on my repositories are always welcome!
+💻 Passionate about technology in general, with experience in front-end development, data analysis, and process automation.
+🎨 Creative side: I love drawing and have foundational skills in Photoshop, SketchUp, video editing, and hardware.
+🎮 Gamer at heart — passionate about games of all styles.
+🏐 Volleyball and Run Lover.
 
 ##
 
