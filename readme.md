@@ -19,18 +19,23 @@ if (Diego.studying) {
 
 ### <div align="left">About Me:   </div>
 🎓 Currently studying Systems Analysis and Development at Estácio Via Corpvs — any tips, feedback, or contributions on my repositories are always welcome!
+
 💻 Passionate about technology in general, with experience in front-end development, data analysis, and process automation.
+
 🎨 Creative side: I love drawing and have foundational skills in Photoshop, SketchUp, video editing, and hardware.
+
 🎮 Gamer at heart — passionate about games of all styles.
+
 🏐 Volleyball and Run Lover.
 
 ##
 
 <div align="center"> 
-
-  Best Project now:[Click Here!](https://react-tasks-diegoproject.vercel.app/)
-
- 
+<p align="center">
+  <a href="https://react-tasks-diegoproject.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_My_Best_Project_Now-Click_Here!-blue?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 </div>
 
 ##
