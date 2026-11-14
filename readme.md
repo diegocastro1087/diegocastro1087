@@ -29,7 +29,7 @@ if (Diego.studying) {
 <div align="center"> 
 
   Best Project now:
-  <a href="https://react-tasks-diegoproject.vercel.app/">Click Here!</a>
+  <a href="https://react-tasks-diegoproject.vercel.app/" target="_blank">Click Here!</a>
 
  
 </div>
